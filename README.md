@@ -1,0 +1,2 @@
+# -nubitnew
+testnet nubit
